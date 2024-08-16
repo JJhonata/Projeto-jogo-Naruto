@@ -18,10 +18,10 @@ O objetivo do jogo é simples: **corra e pule sobre os obstáculos (Pain)**. Use
 - **`imagens/`**: Diretório contendo imagens e GIFs usados na página.
 
 ##🕹️ Utilizando a Aplicação
-Visualizar Animações: A página exibe animações de Naruto, nuvens e tubos, criando uma experiência visual baseada no tema Naruto. 🌀
-Interatividade: Utilize a tecla de seta para cima para fazer Naruto saltar e evitar os obstáculos (pipes). ⬆️
+Visualizar Animações: A página exibe animações de Naruto, nuvens, etc, criando uma experiência visual baseada no tema Naruto. 🌀
+Interatividade: Utilize a tecla de seta para cima para fazer Naruto saltar e evitar os obstáculos (Pain). ⬆️
 
 ##🛠️ Tecnologias Utilizadas
-HTML: Estrutura da página.
-CSS: Estilização e animações.
-JavaScript: Funcionalidade e interatividade.
+**HTML: Estrutura da página.**
+**CSS: Estilização e animações.**
+**JavaScript: Funcionalidade e interatividade.**
